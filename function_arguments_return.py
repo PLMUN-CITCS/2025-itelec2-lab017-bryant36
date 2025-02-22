@@ -1,4 +1,4 @@
-# BRYANT RAY M. MANALAD
+# BRYANT RAY MANALAD
 # ITELEC2
 # Laboratory #17 – Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
@@ -14,4 +14,3 @@ def main():
 
 if _name_ == "_main_":
     main()
-    
